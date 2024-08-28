@@ -1,0 +1,3 @@
+14772512 soluções encontradas para 16 rainhas:
+
+Tempo de execução (sequencial): 134.518 segundos
